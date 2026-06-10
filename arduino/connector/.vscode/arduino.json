@@ -1,0 +1,6 @@
+{
+    "port": "/dev/ttyACM1",
+    "board": "arduino:mbed_nano:nano33ble",
+    "programmer": "arduino:cmsis-dap",
+    "sketch": "connector.ino"
+}
