@@ -1,0 +1,34 @@
+[0.936s] Invoking command in '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/src/chlorophyll_node': PYTHONPATH=/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chlorophyll_node build --build-base /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build install --record /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/install.log --single-version-externally-managed install_data
+[1.227s] running egg_info
+[1.246s] writing ../../build/chlorophyll_node/chlorophyll_node.egg-info/PKG-INFO
+[1.247s] writing dependency_links to ../../build/chlorophyll_node/chlorophyll_node.egg-info/dependency_links.txt
+[1.247s] writing entry points to ../../build/chlorophyll_node/chlorophyll_node.egg-info/entry_points.txt
+[1.248s] writing requirements to ../../build/chlorophyll_node/chlorophyll_node.egg-info/requires.txt
+[1.248s] writing top-level names to ../../build/chlorophyll_node/chlorophyll_node.egg-info/top_level.txt
+[1.288s] reading manifest file '../../build/chlorophyll_node/chlorophyll_node.egg-info/SOURCES.txt'
+[1.291s] writing manifest file '../../build/chlorophyll_node/chlorophyll_node.egg-info/SOURCES.txt'
+[1.291s] running build
+[1.292s] running build_py
+[1.292s] copying chlorophyll_node/chloro_node.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build/lib/chlorophyll_node
+[1.293s] copying chlorophyll_node/image_processing.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build/lib/chlorophyll_node
+[1.295s] copying chlorophyll_node/__init__.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build/lib/chlorophyll_node
+[1.296s] running install
+[1.301s] running install_lib
+[1.324s] running install_data
+[1.325s] copying resource/chlorophyll_node -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/ament_index/resource_index/packages
+[1.326s] copying package.xml -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node
+[1.328s] copying launch/chlorophyll_node.launch.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/launch
+[1.329s] copying config/pallete.txt -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[1.330s] copying config/param_areacutoff.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[1.332s] copying config/param_areacutoff_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[1.333s] copying config/param_thresdist.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[1.334s] copying config/param_threshold1.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[1.335s] copying config/param_threshold2.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[1.336s] copying config/param_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[1.337s] running install_egg_info
+[1.357s] removing '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages/chlorophyll_node-1.0.0-py3.10.egg-info' (and everything under it)
+[1.360s] Copying ../../build/chlorophyll_node/chlorophyll_node.egg-info to /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages/chlorophyll_node-1.0.0-py3.10.egg-info
+[1.368s] running install_scripts
+[1.523s] Installing chlorophyll_node script to /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/chlorophyll_node
+[1.524s] writing list of installed files to '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/install.log'
+[1.547s] Invoked command in '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/src/chlorophyll_node' returned '0': PYTHONPATH=/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/chlorophyll_node build --build-base /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build install --record /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/install.log --single-version-externally-managed install_data

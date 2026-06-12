@@ -1,0 +1,32 @@
+running egg_info
+writing ../../build/chlorophyll_node/chlorophyll_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/chlorophyll_node/chlorophyll_node.egg-info/dependency_links.txt
+writing entry points to ../../build/chlorophyll_node/chlorophyll_node.egg-info/entry_points.txt
+writing requirements to ../../build/chlorophyll_node/chlorophyll_node.egg-info/requires.txt
+writing top-level names to ../../build/chlorophyll_node/chlorophyll_node.egg-info/top_level.txt
+reading manifest file '../../build/chlorophyll_node/chlorophyll_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/chlorophyll_node/chlorophyll_node.egg-info/SOURCES.txt'
+running build
+running build_py
+copying chlorophyll_node/chloro_node.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build/lib/chlorophyll_node
+copying chlorophyll_node/image_processing.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build/lib/chlorophyll_node
+copying chlorophyll_node/__init__.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build/lib/chlorophyll_node
+running install
+running install_lib
+running install_data
+copying resource/chlorophyll_node -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/ament_index/resource_index/packages
+copying package.xml -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node
+copying launch/chlorophyll_node.launch.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/launch
+copying config/pallete.txt -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+copying config/param_areacutoff.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+copying config/param_areacutoff_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+copying config/param_thresdist.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+copying config/param_threshold1.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+copying config/param_threshold2.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+copying config/param_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+running install_egg_info
+removing '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages/chlorophyll_node-1.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/chlorophyll_node/chlorophyll_node.egg-info to /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages/chlorophyll_node-1.0.0-py3.10.egg-info
+running install_scripts
+Installing chlorophyll_node script to /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/chlorophyll_node
+writing list of installed files to '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/install.log'

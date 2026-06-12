@@ -1,0 +1,2 @@
+[console_scripts]
+chlorophyll_node = chlorophyll_node.chloro_node:main

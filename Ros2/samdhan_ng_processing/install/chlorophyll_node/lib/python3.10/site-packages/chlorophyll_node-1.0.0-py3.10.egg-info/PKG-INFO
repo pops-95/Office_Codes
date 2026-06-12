@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: chlorophyll_node
+Version: 1.0.0
+Summary: ROS 2 node for GNSS-triggered chlorophyll image analysis.
+Maintainer: soumik
+Maintainer-email: soumik@example.com
+License: Proprietary
+Requires-Dist: setuptools

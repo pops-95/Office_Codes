@@ -1,0 +1,34 @@
+[1.186s] Invoking command in '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node': PYTHONPATH=/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build --no-deps symlink_data
+[1.596s] running develop
+[1.878s] running egg_info
+[1.878s] creating chlorophyll_node.egg-info
+[1.900s] writing chlorophyll_node.egg-info/PKG-INFO
+[1.902s] writing dependency_links to chlorophyll_node.egg-info/dependency_links.txt
+[1.902s] writing entry points to chlorophyll_node.egg-info/entry_points.txt
+[1.903s] writing requirements to chlorophyll_node.egg-info/requires.txt
+[1.903s] writing top-level names to chlorophyll_node.egg-info/top_level.txt
+[1.903s] writing manifest file 'chlorophyll_node.egg-info/SOURCES.txt'
+[2.003s] reading manifest file 'chlorophyll_node.egg-info/SOURCES.txt'
+[2.012s] writing manifest file 'chlorophyll_node.egg-info/SOURCES.txt'
+[2.093s] running build_ext
+[2.093s] Creating /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages/chlorophyll-node.egg-link (link to .)
+[2.095s] Installing chlorophyll_node script to /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/chlorophyll_node
+[2.096s] 
+[2.096s] Installed /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node
+[2.097s] running symlink_data
+[2.097s] creating /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/ament_index
+[2.098s] creating /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/ament_index/resource_index
+[2.098s] creating /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/ament_index/resource_index/packages
+[2.099s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/resource/chlorophyll_node -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/ament_index/resource_index/packages
+[2.100s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/package.xml -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node
+[2.100s] creating /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/launch
+[2.101s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/launch/chlorophyll_node.launch.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/launch
+[2.101s] creating /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.102s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/pallete.txt -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.103s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_areacutoff.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.104s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_areacutoff_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.104s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_thresdist.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.105s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_threshold1.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.106s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_threshold2.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.107s] symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+[2.142s] Invoked command in '/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node' returned '0': PYTHONPATH=/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/build --no-deps symlink_data
