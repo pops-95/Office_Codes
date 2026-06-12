@@ -1,0 +1,25 @@
+running develop
+running egg_info
+writing chlorophyll_node.egg-info/PKG-INFO
+writing dependency_links to chlorophyll_node.egg-info/dependency_links.txt
+writing entry points to chlorophyll_node.egg-info/entry_points.txt
+writing requirements to chlorophyll_node.egg-info/requires.txt
+writing top-level names to chlorophyll_node.egg-info/top_level.txt
+reading manifest file 'chlorophyll_node.egg-info/SOURCES.txt'
+writing manifest file 'chlorophyll_node.egg-info/SOURCES.txt'
+running build_ext
+Creating /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/python3.10/site-packages/chlorophyll-node.egg-link (link to .)
+Installing chlorophyll_node script to /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/lib/chlorophyll_node
+
+Installed /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node
+running symlink_data
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/resource/chlorophyll_node -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/ament_index/resource_index/packages
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/package.xml -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/launch/chlorophyll_node.launch.py -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/launch
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/pallete.txt -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_areacutoff.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_areacutoff_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_thresdist.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_threshold1.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_threshold2.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config
+symbolically linking /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/build/chlorophyll_node/config/param_tillering.bin -> /media/soumik/18D07164D07148D0/CODE/GIT/Office_Codes/Ros2/samdhan_ng_processing/install/chlorophyll_node/share/chlorophyll_node/config

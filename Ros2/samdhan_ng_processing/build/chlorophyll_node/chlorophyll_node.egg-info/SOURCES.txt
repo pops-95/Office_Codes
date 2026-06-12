@@ -11,6 +11,13 @@ setup.py
 chlorophyll_node/__init__.py
 chlorophyll_node/chloro_node.py
 chlorophyll_node/image_processing.py
+chlorophyll_node.egg-info/PKG-INFO
+chlorophyll_node.egg-info/SOURCES.txt
+chlorophyll_node.egg-info/dependency_links.txt
+chlorophyll_node.egg-info/entry_points.txt
+chlorophyll_node.egg-info/requires.txt
+chlorophyll_node.egg-info/top_level.txt
+chlorophyll_node.egg-info/zip-safe
 config/pallete.txt
 config/param_areacutoff.bin
 config/param_areacutoff_tillering.bin

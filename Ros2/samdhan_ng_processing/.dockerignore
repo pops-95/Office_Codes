@@ -1,0 +1,8 @@
+build/
+install/
+log/
+docker-data/
+.git/
+**/__pycache__/
+**/*.py[cod]
+*.log

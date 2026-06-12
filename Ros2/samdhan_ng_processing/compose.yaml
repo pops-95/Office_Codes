@@ -1,0 +1,27 @@
+services:
+  chlorophyll-node:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: chlorophyll-node:humble
+    container_name: chlorophyll-node
+    network_mode: host
+    ipc: host
+    restart: unless-stopped
+    environment:
+      ROS_DOMAIN_ID: "${ROS_DOMAIN_ID:-0}"
+      ROS_LOCALHOST_ONLY: "0"
+      RMW_IMPLEMENTATION: rmw_fastrtps_cpp
+      FASTDDS_BUILTIN_TRANSPORTS: UDPv4
+    volumes:
+      - "${IMAGE_INPUT_DIR:-./docker-data/input}:/data/input:ro"
+      -  /home/soumik/Downloads:/camera_images:ro
+      - "${OUTPUT_DIR:-./docker-data/output}:/data/output"
+    command:
+      - ros2
+      - launch
+      - chlorophyll_node
+      - chlorophyll_node.launch.py
+      - output_directory:=/data/output
+      - distance_cutoff_cm:=${DISTANCE_CUTOFF_CM:-20.0}
+      - use_gnss_trigger:=${USE_GNSS_TRIGGER:-true}

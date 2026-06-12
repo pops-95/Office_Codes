@@ -1,2 +1,3 @@
 .venv/*
 arduino/connector/accelerometer_data.csv
+ditto-talkinghead/*
